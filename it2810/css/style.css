@@ -1,0 +1,23 @@
+body {
+    background: url(../images/Himmel-Thank-You.png) no-repeat center fixed;
+    -webkit-animation: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    
+    }
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight: 400;
+}
+
+
+h2
+{font-family: 'Arapey', serif;
+}
